@@ -1,4 +1,9 @@
-Segmentation Analysis with KMeans Clustering
+## Segmentation Analysis with KMeans Clustering
+
+Collaborators:
+- Rogelio Avalos, Email: rogelioa@cpp.edu
+- Ariana Arellano, Email: ariarellano122@gmail.com
+- Isaac Chan, Email: issacchen1115@gmail.com
 
 ![image](https://github.com/norbertolimonjr/KMeans-Clustering-Segmentation-Analysis/assets/68612270/a4e6e8e4-6b50-4211-8b9a-508409f1d93a)
 
